@@ -3,17 +3,18 @@
 - Acesse o [index](./public/index/index.html) para visualizar a lista de titulos
 - Acesse o [bandersnatch](./public/bandersnatch/index.html) para acessar o titulo base do projeto
 
-## Lista de Títulos
+# Lista de Títulos
 
 ![titulos](./prints/titulos.png)
 
-## Vídeo
+# Vídeo
 
 ![titulos](./prints/demo.png)
 
-### Créditos
+# Créditos
 
-- Código fonte baseado no JSexpert de Erick Wendell
+- Baseado na Semana JSexpert de Erick Wendell
 - Layout da lista foi baseada no  codepen do [Carlos Avila
 ](https://codepen.io/cb2307/pen/XYxyeY)
 - Layout do video foi baseado no codepen do [Benjamin Pott](https://codepen.io/benjipott/pen/JELELN)
+- Projeto para fins acadêmicos.
